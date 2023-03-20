@@ -1,0 +1,92 @@
+body{
+    background-image: url(images/ramzan10.jpg);
+    background-repeat: no-repeat;
+    height: 20px;
+    background-size: cover;
+    background-position: top;
+    min-height: 184vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+}
+.countdown{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.box1, .box2, .box3, .box4{
+    
+    font-size: 30px;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    align-items: center;
+}
+.handing{
+    margin-top: 45px;
+}
+.styling{
+    font-size: 20px;
+    border-radius: 15px;
+    border: 2px solid black;
+    color: black;
+    font-weight: bolder;
+    background-color: burlywood;
+    padding: 15px;
+}
+.styling:hover{
+    background-color: goldenrod;
+    color: brown;
+    cursor: pointer;
+}
+.stylo{
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+}
+.ramzan{
+    color: black;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.edit{
+    color: brown;
+}
+.design{
+    margin: 25px ;
+    font-size: 15px;
+    min-width: 350px;
+    border-collapse: collapse ;
+    border: 3px solid black;
+}
+.design tr {
+    text-align: left;
+    font-weight: bold;
+}
+.editor{
+    text-align: center;
+    color: brown;
+}
+.dua{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.develop{
+    text-align: center;
+    font-weight: bolder;
+}
+.color{
+    color: brown;
+}
+    
